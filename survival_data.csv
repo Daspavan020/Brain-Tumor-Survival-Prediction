@@ -1,0 +1,16 @@
+time,event,Tumor Type,Location,Size (cm),Grade,Patient Age,Gender
+320,1,Glioma,Frontal Lobe,5.6,III,45,Male
+540,0,Meningioma,Parietal Lobe,2.1,II,38,Female
+120,1,Ependymoma,Occipital Lobe,6.3,IV,52,Male
+410,1,Glioma,Temporal Lobe,3.8,III,41,Female
+900,0,Meningioma,Frontal Lobe,1.9,I,30,Female
+220,1,Ependymoma,Brainstem,4.2,III,60,Male
+150,1,Glioma,Occipital Lobe,7.1,IV,55,Male
+670,0,Pituitary,Frontal Lobe,1.2,I,29,Female
+280,1,Ependymoma,Temporal Lobe,5.4,III,48,Female
+800,0,Meningioma,Parietal Lobe,2.7,II,36,Male
+365,1,Glioma,Frontal Lobe,6.0,IV,50,Male
+430,1,Pituitary,Temporal Lobe,2.4,II,44,Female
+515,0,Meningioma,Occipital Lobe,3.1,II,40,Male
+200,1,Ependymoma,Frontal Lobe,5.5,III,57,Female
+750,0,Glioma,Parietal Lobe,2.0,I,35,Male

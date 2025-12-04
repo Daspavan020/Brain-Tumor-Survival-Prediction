@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated results
+survival_results_*.xlsx
+survival_report_*.pdf
+
+# OS junk
+.DS_Store
+Thumbs.db
