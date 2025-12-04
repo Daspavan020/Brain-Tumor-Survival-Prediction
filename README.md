@@ -1,4 +1,4 @@
-🧠 Brain Tumor Survival Prediction using DeepSurv (SurvivalNet)
+**🧠 Brain Tumor Survival Prediction using DeepSurv (SurvivalNet)**
 
 This project trains a Deep Learning–based Survival Model (DeepSurv) to predict patient survival risk based on clinical and tumor metadata.  
 It generates:
