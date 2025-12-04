@@ -7,17 +7,17 @@ Sure — here is the **entire finalized `README.md` as ONE file**, ready to past
 ```markdown
 🧠 Brain Tumor Survival Prediction using DeepSurv (SurvivalNet)
 
-This project trains a **Deep Learning–based Survival Model (DeepSurv)** to predict **patient survival risk** based on clinical and tumor metadata.  
+This project trains a Deep Learning–based Survival Model (DeepSurv) to predict patient survival risk based on clinical and tumor metadata.  
 It generates:
 
 - 📊 A complete **Excel results file** with predictions & model metrics  
-- 📄 A **PDF report** including loss curves, risk distribution, and Kaplan–Meier survival plots  
+- 📄 A PDF report including loss curves, risk distribution, and Kaplan–Meier survival plots  
 - 🎯 Risk categorization for each patient (**High Risk vs Low Risk**)  
 - 🔁 Timestamped outputs generated every run  
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 | Feature | Description |
 |--------|-------------|
@@ -66,7 +66,7 @@ Loss Function: **Custom Cox Partial Likelihood Loss**
 
 ---
 
-## 📊 Output Files
+📊 Output Files
 
 Every run creates:
 
@@ -99,7 +99,7 @@ Includes:
 
 ---
 
-## 🔧 Installation & Setup
+🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
