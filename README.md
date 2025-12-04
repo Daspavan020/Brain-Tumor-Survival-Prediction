@@ -1,10 +1,3 @@
-Sure — here is the **entire finalized `README.md` as ONE file**, ready to paste directly into your repository.
-
----
-
-### 📄 **README.md**
-
-```markdown
 🧠 Brain Tumor Survival Prediction using DeepSurv (SurvivalNet)
 
 This project trains a Deep Learning–based Survival Model (DeepSurv) to predict patient survival risk based on clinical and tumor metadata.  
