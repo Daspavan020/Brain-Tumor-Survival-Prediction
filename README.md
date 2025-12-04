@@ -10,9 +10,9 @@ Sure — here is the **entire finalized `README.md` as ONE file**, ready to past
 This project trains a Deep Learning–based Survival Model (DeepSurv) to predict patient survival risk based on clinical and tumor metadata.  
 It generates:
 
-- 📊 A complete **Excel results file** with predictions & model metrics  
+- 📊 A complete Excel results file with predictions & model metrics  
 - 📄 A PDF report including loss curves, risk distribution, and Kaplan–Meier survival plots  
-- 🎯 Risk categorization for each patient (**High Risk vs Low Risk**)  
+- 🎯 Risk categorization for each patient (High Risk vs Low Risk)  
 - 🔁 Timestamped outputs generated every run  
 
 ---
@@ -22,15 +22,15 @@ It generates:
 | Feature | Description |
 |--------|-------------|
 | 🧬 DeepSurv Neural Network | Uses Cox proportional hazard–based survival loss |
-| 📁 Automatic Reports | Generates **Excel + PDF** report every time the model runs |
+| 📁 Automatic Reports | Generates Excel + PDF report every time the model runs |
 | 📈 Visualization | Loss curve, risk histogram, Kaplan–Meier survival curve |
 | 👤 Patient-Level Risk | Calculates survival risk score for each patient |
-| ⚠ Risk Stratification | Classifies patients into **High** or **Low** risk groups |
+| ⚠ Risk Stratification | Classifies patients into High or Low risk groups |
 | ⏳ Auto Versioning | Output files are timestamped — no overwrite |
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 
@@ -46,7 +46,7 @@ It generates:
 
 ---
 
-## 🧪 Model Architecture
+🧪 Model Architecture
 
 DeepSurv neural network structure:
 
@@ -66,7 +66,7 @@ Loss Function: **Custom Cox Partial Likelihood Loss**
 
 ---
 
-📊 Output Files
+## 📊 Output Files
 
 Every run creates:
 
@@ -191,22 +191,11 @@ Before contributing major changes, please open an issue to discuss.
 
 ---
 
-## 👤 Author
+👤 Author
 
 **Pavan Das**
 📍 India
 Passionate about ML, UI, Medical AI, Analytics & Research.
-
-```
-
----
-
----
-
-### You're all set. 🎉  
-If you'd like, I can also:
-
-- Add **badges** (Python, TensorFlow, MIT license, stars)
 - Generate a **GitHub project banner**
 - Add a **usage demo GIF**
 
